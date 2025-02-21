@@ -12,8 +12,8 @@ import org.bukkit.ChatColor;
  */
 public class ChatColorFormatter {
 
-    private static final String name = stringToString("");
-    private static final String prefix = stringToString(name + " &r>> ");
+    private static final String name = stringToString("&6&lLetterTower");
+    private static final String prefix = stringToString(name + " &7>> &r");
 
     /**
      * Translates the given String into another String with ChatColor format.

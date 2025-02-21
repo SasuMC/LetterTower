@@ -1,2 +1,2 @@
-# PaperPluginTemplate
-Template with all the basics to start developing a PaperMC plugin.
+# LetterTower
+PaperMC plugin created for content creation.

@@ -7,8 +7,8 @@ plugins {
 }
 
 group = "vermillion.productions"
-version = "1.0.0-SNAPSHOT"
-description = "Template with all the basics to start developing a PaperMC 1.21.4 plugin fast."
+version = "1.0"
+description = "Generator of vertical letter towers or horizontal letter lines."
 
 java {
     toolchain.languageVersion.set(JavaLanguageVersion.of(21))
